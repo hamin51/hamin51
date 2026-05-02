@@ -30,8 +30,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:ham.kim51@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  **ham.kim51@gmail.com**
   </a>
 </p>
 
