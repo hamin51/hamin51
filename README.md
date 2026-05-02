@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p>
-     <h3>👋 >Hi, I'm Hamin </h3> </p> 
+     <h3>👋 Hi, I'm Hamin </h3> </p> 
       <p> I’m a freshman majoring in Computer Science at a technical college in Korea. </p>
 
 
