@@ -1,13 +1,10 @@
 # 💫 About Me
 
 <table align="center">
-  <tr>
-    <td align="left" width="50%">
-      <h3>👋 >Hi, I'm Hamin </h3>
+  
+     <h3>👋 >Hi, I'm Hamin </h3>
       <p> I’m a freshman majoring in Computer Science at a technical college in Korea. </p>
-    </td>
-    
-</table>
+
 
 ## 🛠️ Tech Stack
 
@@ -27,12 +24,6 @@
 </p>
 
 
-## 🔗 Connect with Me
-
-<p align="left">
-  <p>ham.kim51@gmail.com</p>
-
-</p>
 
 
 ---
