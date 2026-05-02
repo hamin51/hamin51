@@ -30,8 +30,8 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  **ham.kim51@gmail.com**
-  </a>
+    **ham.kim51@gmail.com**
+
 </p>
 
 
